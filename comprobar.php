@@ -57,7 +57,7 @@ if (!$resultado) {
             echo "<b>USUARIO:</b> $fila[0] <b>CLAVE:</b> $fila[1] <b>NOMBRE:</b> $fila[2] <b>HAS CONSEGUIDO ENTRAR EN LA PAGINA WEB!</b><br>";
         }
 
-        echo '<form action="ALTA.php" method="post">';
+        echo '<form action="ALTA.html" method="post">';
         echo '<input type="submit" value="Ir a ALTA.php">';
         echo '</form>';
     }
