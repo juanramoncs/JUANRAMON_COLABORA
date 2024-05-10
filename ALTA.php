@@ -7,7 +7,7 @@ $nombre = $_POST['nombre'];
 // Conexión a la base de datos
 $servername = "localhost";
 $username = "root";
-$password = "Sepecam2020-21";
+$password = "";
 $dbname = "ejemplo";
 
 // Crear conexión
